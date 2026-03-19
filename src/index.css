@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+:root {
+  font-family: 'Onest Variable', sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+@font-face {
+  font-family: 'Onest';
+  src: url('/assets/onest-latin-wght-normal.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
